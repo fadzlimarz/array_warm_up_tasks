@@ -1,0 +1,30 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+ehthumbs.db
+Thumbs.db
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Dependency directories
+.bundler/
+vendor/
+Gemfile.lock
+Yarn.lock
+
+# macOS folder attributes
+.Spotlight-V100
+.Trashes
+
+# IDE files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw??
